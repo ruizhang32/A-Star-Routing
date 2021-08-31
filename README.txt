@@ -7,6 +7,7 @@ Starting node is marked by 'S'.
 The obstacles are marked by 'X'.
 A* search is used to find the best solution. 
 Heuristic function is implemented in the grach class. 
+The search.py is a generic search module that provided. It is implemented by AStarSearch.py. 
 
 Give a graph like:
 
